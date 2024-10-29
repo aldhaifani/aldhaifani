@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tareq and I'm a self-taught software engineer.</p>
+<p align="left">My name is Tareq and I'm a self-taught developer.</p>
 
 ###
 
