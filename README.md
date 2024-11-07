@@ -1,39 +1,14 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">Hey 👋 What's up? I'm Tareq.</h2>
 
 ###
 
-<p align="left">My name is Tareq and I'm a self-taught developer.</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning: ML<br>🎯 Currently working on:</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aldhaifani&show_icons=true&locale=en&layout=compact" alt="aldhaifani" /></p>
 
 ###
-
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning ML<br>🎯 Currently working on:</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-</div>
-
-###
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
