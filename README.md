@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning: ML<br>🎯 Currently working on:</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning: AI/ML<br>🎯 Currently working on: namat.app</p>
 
 ###
 
