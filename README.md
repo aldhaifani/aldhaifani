@@ -1,18 +1,17 @@
-<h2 align="left">Hey 👋 What's up? I'm Tareq.</h2>
+# Hey, I'm Tareq 👋
 
-###
+> Building products, breaking builds, and calling it iteration.
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning: AI/ML<br>🎯 Currently working on: namat.app</p>
+Developer and founder based in Muscat, currently building [Namat](https://namat.app). Mostly working with Swift, TypeScript, Python, and whatever survives production.
 
-###
+- 🚀 Building **Namat**
+- 🧠 Learning **AI/ML**
+- 🐛 Creating bugs since 2018
 
-<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=aldhaifani&show_icons=true&locale=en&layout=compact" alt="aldhaifani" /></p>
-
-###
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/0x6ar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="0x6ar8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aldhaifani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aldhaifani" height="30" width="40" /></a>
-<a href="https://medium.com/@0x6ar8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@0x6ar8" height="30" width="40" /></a>
+<p>
+  <a href="https://x.com/0x6ar8"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="X" height="28" width="38" /></a>
+  <a href="https://linkedin.com/in/aldhaifani"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="38" /></a>
+  <a href="https://medium.com/@0x6ar8"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="28" width="38" /></a>
 </p>
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=aldhaifani&show_icons=true&locale=en&layout=compact)
