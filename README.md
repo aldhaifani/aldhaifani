@@ -14,4 +14,4 @@ Developer and founder based in Muscat, currently building [Namat](https://namat.
   <a href="https://medium.com/@0x6ar8"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="28" width="38" /></a>
 </p>
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs?username=aldhaifani&show_icons=true&locale=en&layout=compact)
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs?username=aldhaifani&layout=compact&theme=transparent)
